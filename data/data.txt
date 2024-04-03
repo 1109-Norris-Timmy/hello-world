@@ -1,0 +1,3 @@
+Here is some data on what makes a program easy to test.
+The program is modularized, limits the integration of input/output, and does not contain many for or while loops.
+Test code coverage should be above 75%.
