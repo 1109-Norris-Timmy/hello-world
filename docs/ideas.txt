@@ -1,0 +1,8 @@
+Problem: CS 333 Final Project
+
+Necessary Components: Easy to test, fun to implement, something that could be automated with each commit. 
+
+Idea: Virtual Poker. 
+
+Components of Poker: Hand, Payout, Betting, Winning Hands, Board, Deck, Cards.
+
